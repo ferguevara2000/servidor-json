@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server": "json-server --watch dbCursos.json",
     "start" : "node dbCursos.js"
   },
   "keywords": [],
