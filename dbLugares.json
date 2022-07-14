@@ -1,0 +1,52 @@
+{
+  "lugares": [
+    {
+      "id": 1,
+      "imagen": "https://ec.viajandox.com/uploads/Lago%20San%20Pablo_1.jpg",
+      "titulo": "Lago San Pablo",
+      "vistas": 50
+    },
+    {
+      "id": 2,
+      "imagen": "https://img.goraymi.com/2016/04/26/61c6f17e1b17a5a8f62d26de43c99eb1_xl.jpg",
+      "titulo": "Volcán Cotopaxi",
+      "vistas": 150
+    },
+    {
+      "id": 3,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Cuyabeno_Reserve%2C_Laguna_Grande.jpg",
+      "titulo": "Cuyabeno",
+      "vistas": 500
+    },
+    {
+      "imagen": "https://i2.wp.com/www.mehacefeliz.com/wp-content/uploads/2018/04/30582372_10155646499522809_6746345774549827584_o.jpg?fit=1080%2C1350&ssl=1",
+      "titulo": "Paila",
+      "vistas": "0",
+      "id": 4
+    },
+    {
+      "imagen": "https://www.eldiario.ec/videos-manavision/wp-content/uploads/sites/5/2021/05/Playa-del-Murcielago-_1.jpg",
+      "titulo": "Playa",
+      "vistas": "0",
+      "id": 5
+    },
+    {
+      "imagen": "https://img.goraymi.com/2019/08/29/78cc3f9dc42a794c5847790f9ba41b37_sl.jpg",
+      "titulo": "Cayambe",
+      "vistas": "0",
+      "id": 6
+    },
+    {
+      "imagen": "https://i2.wp.com/www.sinmapa.net/wp-content/uploads/2015/08/balneareo_banos-agua-santa-ecuador.jpg?resize=700%2C525&ssl=1",
+      "titulo": "Baños",
+      "vistas": "0",
+      "id": 7
+    },
+    {
+      "imagen": "https://img-c.udemycdn.com/course/480x270/2306140_8181_2.jpg",
+      "titulo": "Angular",
+      "vistas": "0",
+      "id": 8
+    }
+  ]
+}

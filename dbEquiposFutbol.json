@@ -1,0 +1,60 @@
+{
+    "equipos_futbol": [
+      {
+        "id": 1,
+        "imagen": "https://i.imgur.com/utwr8nw.png",
+        "titulo": "Real Madrid",
+        "liga": "Liga Española",
+        "titulos_liga": 35,
+        "tiutulo_internacionales": 14
+      },
+      {
+        "id": 2,
+        "imagen": "https://i.imgur.com/sFctWPO.png",
+        "titulo": "Barcelona",
+        "liga": "Liga Española",
+        "titulos_liga": 26,
+        "tiutulo_internacionales": 5
+      },
+      {
+        "id": 3,
+        "imagen": "https://i.imgur.com/tSuehOg.png",
+        "titulo": "Chelsea",
+        "liga": "Liga Inglesa",
+        "titulos_liga": 6,
+        "tiutulo_internacionales": 2
+      },
+      {
+        "id": 4,
+        "imagen": "https://i.imgur.com/nEpuCRl.png",
+        "titulo": "Liverpool",
+        "liga": "Liga Inglesa",
+        "titulos_liga": 19,
+        "tiutulo_internacionales": 200
+      },
+      {
+        "id": 5,
+        "imagen": "https://i.imgur.com/S5LxKJE.png",
+        "titulo": "París Saint-Germain",
+        "liga": "Liga Francesa",
+        "titulos_liga": 10,
+        "tiutulo_internacionales": 0
+      },
+      {
+        "id": 6,
+        "imagen": "https://i.imgur.com/kIlh5tV.png",
+        "titulo": "Bayern Munich",
+        "liga": "Liga Alemana",
+        "titulos_liga": 32,
+        "tiutulo_internacionales": 6
+      },
+      {
+        "id": 7,
+        "imagen": "https://i.imgur.com/D1mOpS3.png",
+        "titulo": "Borussia Dortmund",
+        "liga": "Liga Alemana",
+        "titulos_liga": 8,
+        "tiutulo_internacionales": 1
+      }
+    ]
+  }

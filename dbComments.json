@@ -1,0 +1,20 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "texto": "Muy buena imagen"
+    },
+    {
+      "texto": "Otro comentario",
+      "id": 2
+    },
+    {
+      "texto": "hola",
+      "id": 3
+    },
+    {
+      "texto": "nuevo comentario",
+      "id": 4
+    }
+  ]
+}
